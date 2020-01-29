@@ -1,3 +1,3 @@
 UltiLogo
 
-Edited by JuliusMcClane
+- [x] Edited by JuliusMcClane
