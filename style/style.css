@@ -26,6 +26,11 @@ body{
     
 }
 
+
+.master_container{
+    position: relative;
+}
+
 .div-background{
     background-color:  hsla(170, 50%, 45%, 1); 
 /*    var(--myColor), #ff12aa; */
